@@ -1,0 +1,3 @@
+1. underline menu navbar harus diperbaiki lagi
+2. semua font harus di beri font khusu
+3. position dari navbar dan div main nya
